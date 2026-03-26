@@ -1,0 +1,80 @@
+a<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy – Vajíčka / Jen počkej!</title>
+<style>
+  body { font-family: Arial, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; line-height: 1.6; }
+  h1 { color: #1e3a5f; }
+  h2 { color: #1e3a5f; margin-top: 30px; }
+  hr { border: none; border-top: 1px solid #ddd; margin: 40px 0; }
+</style>
+</head>
+<body>
+
+<h1>Privacy Policy / Zásady ochrany osobních údajů</h1>
+<p><em>Last updated / Poslední aktualizace: March 2025</em></p>
+
+<h2>English</h2>
+
+<h3>1. Information We Collect</h3>
+<p>The app <strong>Vajíčka / Jen počkej!</strong> collects the following data:</p>
+<ul>
+  <li><strong>Nickname</strong> – a name chosen by the user, stored in our database to display in leaderboards.</li>
+  <li><strong>Game scores</strong> – points achieved in individual game sessions.</li>
+  <li><strong>Team membership</strong> – if the user joins a team, the team name is stored.</li>
+</ul>
+
+<h3>2. How We Use Your Data</h3>
+<ul>
+  <li>To display leaderboards and friend scores.</li>
+  <li>To calculate league standings.</li>
+  <li>We do not sell or share your data with third parties.</li>
+</ul>
+
+<h3>3. Data Storage</h3>
+<p>Data is stored securely using <strong>Supabase</strong> (supabase.com), a cloud database provider based in the EU/US.</p>
+
+<h3>4. Data Deletion</h3>
+<p>You can request deletion of your data at any time by contacting us at: <strong>vitezslav.stejskal@gmail.com</strong></p>
+
+<h3>5. Children's Privacy</h3>
+<p>The app is suitable for all ages. We do not knowingly collect personal information from children under 13.</p>
+
+<h3>6. Contact</h3>
+<p>For any questions regarding privacy: <strong>vitezslav.stejskal@gmail.com</strong></p>
+
+<hr>
+
+<h2>Česky</h2>
+
+<h3>1. Jaké údaje sbíráme</h3>
+<p>Aplikace <strong>Vajíčka / Jen počkej!</strong> sbírá tyto údaje:</p>
+<ul>
+  <li><strong>Přezdívka</strong> – jméno zvolené uživatelem, uložené v databázi pro zobrazení v žebříčcích.</li>
+  <li><strong>Herní skóre</strong> – body dosažené v jednotlivých hrách.</li>
+  <li><strong>Členství v týmu</strong> – pokud se uživatel připojí k týmu, je uložen název týmu.</li>
+</ul>
+
+<h3>2. Jak údaje využíváme</h3>
+<ul>
+  <li>Pro zobrazení žebříčků a skóre přátel.</li>
+  <li>Pro výpočet ligových pořadí.</li>
+  <li>Vaše údaje neprodáváme ani nesdílíme s třetími stranami.</li>
+</ul>
+
+<h3>3. Uložení dat</h3>
+<p>Data jsou bezpečně uložena pomocí <strong>Supabase</strong> (supabase.com), poskytovatele cloudové databáze.</p>
+
+<h3>4. Smazání dat</h3>
+<p>Smazání svých dat můžete kdykoli požádat na: <strong>vitezslav.stejskal@gmail.com</strong></p>
+
+<h3>5. Ochrana dětí</h3>
+<p>Aplikace je vhodná pro všechny věkové kategorie. Vědomě neshromažďujeme osobní údaje dětí mladších 13 let.</p>
+
+<h3>6. Kontakt</h3>
+<p>Dotazy ohledně ochrany osobních údajů: <strong>vitezslav.stejskal@gmail.com</strong></p>
+
+</body>
+</html>
